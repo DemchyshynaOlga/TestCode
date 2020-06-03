@@ -1,2 +1,2 @@
 # TestCode
-Api for validation card number with using Luhn algorithm
+Api for validation pay card data with using Luhn algorithm
